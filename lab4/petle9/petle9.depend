@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710156710 source:c:\users\local\documents\github\ps_isi3\lab4\petle9\main.c
+	<stdio.h>
+	<stdlib.h>
+
