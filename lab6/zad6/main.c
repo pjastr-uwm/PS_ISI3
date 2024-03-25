@@ -23,7 +23,7 @@ int main()
     *(tab1+1) = -3;
     *(tab1+2) = 11;
     *(tab1+3) = 18;
-    *(tab1+4) = -25;
+    *(tab1+4) = -;
     printTable(5, tab1);
     reverseArr(5, tab1);
     printTable(5, tab1);
