@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713178819 source:c:\users\local\documents\github\ps_isi3\lab8\zad1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
