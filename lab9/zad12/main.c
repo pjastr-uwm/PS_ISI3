@@ -24,7 +24,7 @@ void rmDigits(char napis[]){
 
 int main()
 {
-    char n1[] = "aaa344";
+    char n1[] = "ggg5g";
     printf("%s\n", n1);
     rmDigits(n1);
     printf("%s\n", n1);

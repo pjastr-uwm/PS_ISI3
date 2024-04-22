@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713784508 source:c:\users\local\documents\github\ps_isi3\lab9\zad14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+
