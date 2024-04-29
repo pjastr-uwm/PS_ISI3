@@ -12,6 +12,7 @@ int maxRowIdx(int n, int m, int tab[n][m]){
             }
         }
     }
+    return max_index;
 }
 
 int main()
