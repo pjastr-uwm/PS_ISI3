@@ -10,6 +10,7 @@ void sortCols(int n, int m, int ** tab){
                     tab[i][j] = tab[i+1][j];
                     tab[i+1][j] = temp;
                 }
+
             }
         }
     }
