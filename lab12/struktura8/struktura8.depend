@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715598187 source:c:\users\local\documents\github\ps_isi3\lab12\struktura8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
